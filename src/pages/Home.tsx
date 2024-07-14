@@ -22,7 +22,7 @@ export function Home(){
     return(
         <ul className="mt-16">
             {jobs.map((job) => (
-                <li className="text-4xl underline text-red-600" key={job.id}>{job.titulo}</li>
+                <li className="text-4xl underline text-red-600" key={job.id}>A {job.titulo}</li>
             ) )}
         </ul>      
     )
