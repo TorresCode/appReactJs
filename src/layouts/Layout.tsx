@@ -1,5 +1,4 @@
 import { Link, Outlet } from "react-router-dom";
-import logoTc from "../img/logo_tc_white (1).png"
 
 
 export function Layout(){
@@ -9,7 +8,6 @@ export function Layout(){
                 <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
                     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                         <Link to="/" className="flex items-center">
-                            <img src="{logoTc}" alt="" />
                             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">TorresCode</span>
                         </Link>
                         <div className="flex items-center lg:order-2">

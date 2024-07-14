@@ -58,6 +58,3 @@ export function JobsEdit(){
     )
 }
 
-function setJob(data: any) {
-    throw new Error("Function not implemented.")
-}

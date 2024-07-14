@@ -35,7 +35,7 @@ export function Home(){
 <div className="shadow-md p-3 text-center flex">
     <h3 className="text-blue-900 font-bold text-2xl rounded-md">Vagas de Emprego</h3>
     <Link to={'jobs'}>
-        <button className="bg-blue-900 text-white text-2xl py-1 px-2 font-bold" type="button">Cadastra Vaga</button>
+        <button className="bg-blue-900 text-white text-2xl py-1 px-2 font-bold" type="button">Cadastrar Vaga</button>
     </Link>
 </div>
 
