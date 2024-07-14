@@ -1,10 +1,40 @@
 {
-    "jobs":  [
-        {
-            "id": "idteste",
-            "titulo": "Vaga para frontend",
-            "description": "We can of Developer frontend TypeScript, Vue, ReactJs, TawilndCss",
-            "price": "250 000 kz - 300 0000 kz"
-        }
-    ]
+  "jobs": [
+    {
+      "titulo": "Vaga para frontend ",
+      "description": "We can of Developer frontend HTML5, CSS3, TS, ReactJs, BS, TawilndCss",
+      "price": "250 000 kz - 300 0000 kz",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Vaga para BackEnd",
+      "description": "We can of Developer BackEnd PHP, Laravel, AdonisJS, Flask",
+      "price": "2 500 000 kz - 3 000 0000 kz"
+    },
+    {
+      "id": "3",
+      "titulo": "Vaga para FullStack",
+      "description": "We can of Developer FullStack PHP, Laravel, API(AdonisJS, Flask), ReactJS",
+      "price": "3 500 000 kz - 5 000 0000 kz"
+    },
+    {
+      "id": "4",
+      "titulo": "Vaga para Mobile",
+      "description": "We can of Developer Mobile Flutter, ReactNative, API(Laravel, Flask, AdonisJS)",
+      "price": "2 500 000 kz - 4 000 0000 kz"
+    },
+    {
+      "id": "5",
+      "titulo": "Vaga para ML",
+      "description": "We can of Developer ML Pandas, Numpy, Sklearn, Matplotlib, Searbon, Python",
+      "price": "6 500 000 kz - 14 000 0000 kz"
+    },
+    {
+      "id": "624c",
+      "titulo": "Vaga para Mobile U",
+      "description": "We can of Developer Mobile Flutter, ReactNative, API(Laravel, Flask, AdonisJS)",
+      "price": "2 500 000 kz - 4 000 0000 kz"
+    }
+  ]
 }
